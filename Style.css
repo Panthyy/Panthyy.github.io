@@ -103,11 +103,11 @@ body {
   width: 400px;
   background: white;
   text-decoration: none;
-  height: 80px;
   color: black;
   float: right;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom: 20px;
   background: rgba(255, 255, 255, 0.75);
 }
 
